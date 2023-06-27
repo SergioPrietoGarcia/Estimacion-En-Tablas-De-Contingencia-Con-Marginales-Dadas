@@ -40,3 +40,18 @@ Si encuentras algún error gramatical, de expresión o cualquier otra sugerencia
 Además, quiero mencionar que próximamente se lanzará una nueva versión del documento PDF con los errores gramaticales y de expresión corregidos. Estoy comprometido/a en mantener y mejorar la calidad de este trabajo, por lo que tus comentarios serán de gran ayuda.
 
 Agradezco de antemano tu contribución y ayuda para mejorar este proyecto.
+
+## Derechos de Autor y Citas
+
+Este trabajo, titulado "Estimación en tablas de contingencia con marginales dadas", es propiedad de Sergio Prieto García y está protegido por derechos de autor. Todos los derechos están reservados.
+
+Si deseas utilizar o hacer referencia a este trabajo en tus propios proyectos, se requiere una adecuada atribución y citación. A continuación, se proporciona un ejemplo de cómo citar este trabajo:
+
+Prieto García, S. (2023). Estimación en tablas de contingencia con marginales dadas. Universidade de A Coruña.
+
+
+Es importante tener en cuenta que cualquier uso no autorizado, reproducción o modificación de este trabajo sin el consentimiento expreso del autor está prohibido y puede estar sujeto a acciones legales.
+
+Si estás interesado en utilizar este trabajo para fines comerciales, académicos o cualquier otro propósito, te recomiendo que te pongas en contacto conmigo para discutir los detalles y obtener el permiso correspondiente.
+
+Recuerda que el respeto y la integridad de los derechos de autor son fundamentales para fomentar la colaboración y la creatividad en la comunidad. Agradezco de antemano cualquier reconocimiento y atribución adecuada a este trabajo si decides utilizarlo como referencia.
